@@ -4,7 +4,7 @@ import platform
 import getpass
 
 
-#pwd = os.system('pwd')
+
 
 l = os.getcwd()
 
